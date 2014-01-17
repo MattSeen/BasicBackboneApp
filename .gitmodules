@@ -1,6 +1,6 @@
-[submodule "lib/backbone"]
-	path = lib/backbone
+[submodule "js/vendor/backbone"]
+	path = js/vendor/backbone
 	url = https://github.com/jashkenas/backbone.git
-[submodule "lib/jquery"]
-	path = lib/jquery
+[submodule "js/vendor/jquery"]
+	path = js/vendor/jquery
 	url = https://github.com/jquery/jquery.git
